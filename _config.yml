@@ -1,2 +1,4 @@
 remote_theme: just-the-docs/just-the-docs
 logo: "/assets/images/UoC CUL Logo.png"
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light

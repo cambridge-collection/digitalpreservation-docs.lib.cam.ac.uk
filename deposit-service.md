@@ -14,7 +14,6 @@ contact at the Library can supply a spreadsheet template that can be used for th
 * Visit the Deposit Service
 * Request a Sign-in Code by filling in your e-mail address and clicking the <em>SEND ME A SIGN-IN
 CODE button</em>
-
 * Check your email account for an email from deposit@dps.lib.cam.ac.uk with the subject line ‘Sign-in code for Cambridge University Libraries’ Deposit Service’
 * Enter the 6 -figure sign-in code in the email into the Deposit Service Sign in page (shown below)
 and click the CONTINUE button

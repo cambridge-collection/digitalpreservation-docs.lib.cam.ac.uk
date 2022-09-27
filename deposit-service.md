@@ -52,4 +52,4 @@ Click **Sign out** in the bottom left corner of the screen to sign out of the De
 
 ### 6. Finish
 After you have finished uploading all the files you wish to transfer to the Library to the Deposit
-Service, notify your contact at the Library or email [digitalpreservationservice@lib.cam.ac.uk.](mailto: digitalpreservation@lib.cam.ac.uk)
+Service, notify your contact at the Library or email [digitalpreservationservice@lib.cam.ac.uk.](mailto:digitalpreservation@lib.cam.ac.uk)

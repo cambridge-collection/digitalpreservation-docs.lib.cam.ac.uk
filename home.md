@@ -10,4 +10,4 @@ This website is the central repository for documentation—including policies, u
 
 For information about work in progress, please visit the [CUL Digital Preservation blog.](https://digitalpreservation-blog.lib.cam.ac.uk/)
 
-Email any questions to [digitalpreservation@lib.cam.ac.uk.](digitalpreservation@lib.cam.ac.uk)
+Email any questions to [digitalpreservation@lib.cam.ac.uk.](mailto:digitalpreservation@lib.cam.ac.uk)

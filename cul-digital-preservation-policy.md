@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Digital Preservation Policy
+title: Policy
 nav_order: 4
 ---
 # Digital Preservation Policy

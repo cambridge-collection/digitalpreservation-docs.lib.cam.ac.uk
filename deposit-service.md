@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Deposit Service
-nav_order: 3
+parent: Services
+nav_order: 1
 ---
 ## Deposit Service
 The Deposit Service is an online tool that can be used to transfer digital files to the Library safely and

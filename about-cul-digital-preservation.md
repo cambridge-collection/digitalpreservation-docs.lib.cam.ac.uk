@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About CUL Digital Preservation
+title: About
 nav_order: 2
 ---
 # About

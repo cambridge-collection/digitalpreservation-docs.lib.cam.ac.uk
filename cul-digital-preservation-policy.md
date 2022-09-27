@@ -1,9 +1,9 @@
 ---
 layout: default
-title: CUL Digital Preservation Policy
+title: Digital Preservation Policy
 nav_order: 4
 ---
-# CUL Digital Preservation Policy
+# Digital Preservation Policy
 ## 1. Policy overview
 Cambridge University Libraries (CUL, the Libraries) include the main University Library (the
 Library) as well as its faculty and departmental libraries. This policy outlines how the

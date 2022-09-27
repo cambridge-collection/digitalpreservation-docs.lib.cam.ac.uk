@@ -1,5 +1,7 @@
 ---
 layout: default
 title: Transfer Service
-nav_order: 5
+parent: Services
+nav_order: 2
 ---
+# Transfer Service

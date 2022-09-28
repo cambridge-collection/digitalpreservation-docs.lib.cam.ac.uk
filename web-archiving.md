@@ -1,15 +1,14 @@
 ---
 layout: default
 title: Web archiving
-parent: Services
+nav_order: 3
 has_children: true
 has_toc: false
-nav_order: 3
 ---
 
 # Web archiving
 
-Operational responsibility for web archiving sit within CUL Digital Preservation. 
+Operational responsibility for web archiving sits within CUL Digital Preservation. 
 
 CUL does not have its own web archive; instead, CUL contributes to the [UK Web Archive (UKWA)](https://www.webarchive.org.uk/en/ukwa/), which is a collaboration between the six [UK Legal Deposit Libraries](https://www.lib.cam.ac.uk/collections/departments/legal-deposit). Under the UK’s Legal Deposit Regulations, the libraries collect, preserve, and provide access to print and digitally published works, including the UK web domain for current and future research use.  
 

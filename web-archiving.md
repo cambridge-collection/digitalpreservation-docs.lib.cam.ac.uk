@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Web archiving
+title: Web Archiving
 nav_order: 3
 parent: Services
 has_children: true
-has_toc: false
+has_toc: no
+
 ---
 
-# Web archiving
+# Web Archiving
 
 Operational responsibility for web archiving sits within CUL Digital Preservation. 
 

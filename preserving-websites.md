@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Preserving websites
+title: Preserving Websites
 parent: Web Archiving
 grand_parent: Services
 nav_order: 1
 ---
+<<<<<<< HEAD
 # Preserving websites
 
 *The below guidance was created by Nicola Bingham, Lead Curator for the UK Web Archive.*
@@ -39,3 +40,7 @@ domain name. The web crawler by default reads content with a certain domain name
     In order for the UKWA to successfully archive and display your website, our crawler needs to have access to all of the assets that determine how the site is rendered including images, scripts and style and layout instructions. We use the Heritrix crawler and the crawler’s User Agent identifies itself as ‘bl.uk_lddc_bot’.
 
 14. It is good practise to conform to current web standards and validate your code http://validator.w3.org/ against current web standards. 
+=======
+
+Preserving websites
+>>>>>>> d4db613f02198e3026d67ddc7d21f3e8df68396c

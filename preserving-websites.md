@@ -38,4 +38,4 @@ domain name. The web crawler by default reads content with a certain domain name
 
     In order for the UKWA to successfully archive and display your website, our crawler needs to have access to all of the assets that determine how the site is rendered including images, scripts and style and layout instructions. We use the Heritrix crawler and the crawler’s User Agent identifies itself as ‘bl.uk_lddc_bot’.
 
-14. It is good practise to conform to current web standards and validate your code http://validator.w3.org/ against current web standards. 
+14. It is good practise to conform to current web standards and [validate your code  against current web standards.](http://validator.w3.org/)

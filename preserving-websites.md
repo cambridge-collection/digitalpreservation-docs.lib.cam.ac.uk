@@ -5,9 +5,13 @@ parent: Web Archiving
 grand_parent: Services
 nav_order: 1
 ---
-# Preserving websites
+# Guidance for creating archivable websites
 
-*The below guidance was created by Nicola Bingham, Lead Curator for the UK Web Archive.*
+The UK Web Archive uses the open-source Heritrix web crawler to capture the UK web domain at scale. Even though the crawler attempts to copy everything it identifies as being in scope, there is much that is beyond the current generation of web crawlers and so if your website is complex then a web crawler may not be able to read it. There are a few basic things that if taken into account when a website is designed will make a website a lot more archivable. These measures ensure preservation and help avoid information loss, if for any reason a website has to be taken offline.
+
+## Points to consider
+
+*The below guidance was created by [Nicola Bingham,](https://www.bl.uk/people/experts/nicola-bingham) Lead Curator for the UK Web Archive.*
 
 1. Make sure each page of your site can be directly linked to. Modern web applications are extremely complex and often mask the underlying unique URLs that the crawler needs to discover content. It is always best practise to maintain a simple, meaningful URL structure.
 
@@ -19,7 +23,9 @@ nav_order: 1
 
 5. Be aware that a web crawler can only read information on your webpage that is available when the webpage first loads. It won’t be able to read anything extra. For example, if content is loaded onto the page automatically by ‘infinite scrolling’ then the web crawler will not be access this content.
 
-6. Archival crawlers find your content by following links, they cannot deal with URLs which are not referenced explicitly in the HTML but embedded in JavaScript or Flash presentations. If using JavaScript in your website it is a good idea to place the same content from the JavaScript in a <noscript> tag. If you use this method, ensure the contents are exactly the same as what is contained in the JavaScript, and that this content is shown to visitors who do not have JavaScript enabled in their browser. Like any functionality on the web, if it needs to contact the originating server in order to work, it will fail when archived. As a general rule of thumb, simple HTML is the easiest to archive.
+6. Archival crawlers find your content by following links, they cannot deal with URLs which are not referenced explicitly in the HTML but embedded in JavaScript or Flash presentations. If using JavaScript in your website it is a good idea to place the same content from the JavaScript in a no script tag. 
+
+    If you use this method, ensure the contents are exactly the same as what is contained in the JavaScript, and that this content is shown to visitors who do not have JavaScript enabled in their browser. Like any functionality on the web, if it needs to contact the originating server in order to work, it will fail when archived. As a general rule of thumb, simple HTML is the easiest to archive.
 
 7. File formats. Chose open formats or at least formats that can be read by open source software. See further guidelines on file formats in the ‘File formats’ section on page 3.
 
@@ -39,3 +45,17 @@ domain name. The web crawler by default reads content with a certain domain name
     In order for the UKWA to successfully archive and display your website, our crawler needs to have access to all of the assets that determine how the site is rendered including images, scripts and style and layout instructions. We use the Heritrix crawler and the crawler’s User Agent identifies itself as ‘bl.uk_lddc_bot’.
 
 14. It is good practise to conform to current web standards and [validate your code  against current web standards.](http://validator.w3.org/)
+
+## Further reading 
+
+* Webmaster Guidelines from Google. Many best practices mentioned here are applicable too for archiving crawlers.
+http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35769.
+
+* Standford University Libraries Archivabilty (Guidelines for website owners)
+https://library.stanford.edu/projects/web-archiving/archivability
+
+* Helen Hockx-yu; Blog post on the UK Web Archive blog. How to make websites more archivable.
+http://britishlibrary.typepad.co.uk/webarchive/2012/09/how-to-make-websites-more-archivable.html
+
+* Columbia University Libraries Guidelines for Preservable websites
+https://library.columbia.edu/bts/web_resources_collection/guidelines_for_preservable_websites.html

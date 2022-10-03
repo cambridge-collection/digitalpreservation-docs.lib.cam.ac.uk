@@ -1,7 +1,4 @@
 remote_theme: just-the-docs/just-the-docs
 logo: "/assets/images/University Libraries_rev_white.png"
 color_scheme: culdp
-aux_links: 
-"Home"
-https://digitalpreservation-docs.lib.cam.ac.uk/home.html
-aux_links_new_tab: true
+href="/just-the-docs/favicon.ico"

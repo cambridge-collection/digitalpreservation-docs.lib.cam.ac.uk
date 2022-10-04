@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CUL Digital Preservation Programme
-parent: About CUL digital Preservation
+parent: About
 nav_order: 1
 ---
 

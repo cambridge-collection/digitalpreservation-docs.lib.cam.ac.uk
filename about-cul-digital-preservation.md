@@ -2,6 +2,8 @@
 layout: default
 title: About
 nav_order: 2
+has_children: true
+has_toc: false
 ---
 # About
 Based at the University Library, Digital Preservation at Cambridge University Libraries is about ensuring that digital materials within collections can be accessed by readers both now and in the future.

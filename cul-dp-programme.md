@@ -18,24 +18,28 @@ nav_order: 1
 
 ## Team
 
-Natalie Adams 
+The core Digital Preservation Programme team is made up of staff on teams within the Libraries' Digital Initiatives directorate as well as staff within the Libraries' Programme Support Office: 
 
-Ceri Bennett 
+Natalie Adams, Digital Preservation  
 
-Nick Butler 
+Ceri Bennett, Programme Support Office
 
-John Gostick 
+Nick Butler, Development
 
-Lesley Gray
+John Gostick, Development
 
-Jenny Grewcock
+Lesley Gray, Digital Initiatives   
 
-Peter Heiner 
+Jenny Grewcock, Programme Support Office
 
-Jay Pema 
+Peter Heiner, Development
 
-Tuan Pham 
+Jay Pema, Digital Services
 
-Caylin Smith
+Tuan Pham, Development
 
-Leontien Talboom 
+Caylin Smith, Digital Preservation
+
+Leontien Talboom, Digital Preservation
+
+The team works with colleagues across the Libraries in Archives & Modern Manusripts, Scholarly Communications, Open Research Systems, the Digital Content Unit, and others to understand content and user needs to deliver services that are fit for purpose. 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research and Outreach
+title: Research
 nav_order: 4
 has_children: true
 has_toc: false

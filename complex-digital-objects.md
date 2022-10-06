@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Complex Digital Objects Group
+title: Complex Digital Objects
 parent: Research
 nav_order: 2
 ---

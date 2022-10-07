@@ -5,8 +5,7 @@ parent: Services
 nav_order: 1
 ---
 # Deposit Service
-The Deposit Service is an online tool that can be used to transfer digital files to the Library safely and
-securely.
+The Deposit Service is an online tool that can be used to transfer digital files to the Library safely and securely.
 
 ## 1. Before you start
 Liaise with Cambridge University Library to:

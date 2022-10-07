@@ -19,6 +19,10 @@
   margin: 0;
 }
 
-.nav-list .nav-list-item .nav-list-expander {
+.nav-list.nav-category-list
+  > .nav-list-item
+  > .nav-list
+  > .nav-list-item
+  > .nav-list-link {
   color: #ffffff;
 }

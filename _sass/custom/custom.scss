@@ -7,3 +7,11 @@
       rgba(235, 237, 245, 0) 0%
     );
   }
+
+  .nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: linear-gradient(
+      -90deg,
+      #ebedf5 0%,
+      rgba(235, 237, 245, 0.8) 0%
+    );
+  }

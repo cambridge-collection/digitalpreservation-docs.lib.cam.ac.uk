@@ -3,12 +3,23 @@
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
 }
+
+.nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item .nav-list-link.active   {
+  color: #ffffff;
+}
+
 .nav-list .nav-list-item .nav-list-expander:hover {
   background-image: none;
 }
+
 .site-title:hover {
   background-image: none;
 }
 .site-button:hover {
   background-image: none;
+}
+
+.nav-list .nav-list-item {
+  font-size: 18px !important;
 }

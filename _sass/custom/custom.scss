@@ -2,11 +2,17 @@
 .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
-    color: #ffffff; /*move this into a separate block specifically for .nav-list-link.active? */ 
 }
+
+.nav-list .nav-list-item .nav-list-link,
+.nav-list .nav-list-item .nav-list-link.active   {
+  color: #ffffff;
+}
+
 .nav-list .nav-list-item .nav-list-expander:hover {
   background-image: none;
 }
+
 .site-title:hover {
   background-image: none;
 }
@@ -16,21 +22,4 @@
 
 .nav-list .nav-list-item {
   font-size: 18px !important;
-  position: relative;
-  margin: 0;
-}
-
-.nav-list.nav-category-list
-  > .nav-list-item
-  > .nav-list
-  > .nav-list-item
-  > .nav-list-link {
-  color: #ffffff;
-}
-.nav-list.nav-category-list
-  > .nav-list-item
-  > .nav-list
-  > .nav-list-item
-  > .nav-list-expander {
-  color: #ffffff;
 }

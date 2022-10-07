@@ -12,3 +12,13 @@
 .site-button:hover {
   background-image: none;
 }
+
+.nav-list .nav-list-item {
+  font-size: 18px !important;
+  position: relative;
+  margin: 0;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  color: #ffffff;
+}

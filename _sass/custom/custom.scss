@@ -1,8 +1,13 @@
 //Remove background image when .nav-list-link active
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
-  }
-
-  .nav-list .nav-list-item .nav-list-expander:hover {
-    background-image: none;
-  }
+}
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-image: none;
+}
+.site-title:hover {
+  background-image: none;
+}
+.site-button:hover {
+  background-image: none;
+}

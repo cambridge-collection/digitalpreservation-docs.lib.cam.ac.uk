@@ -2,6 +2,7 @@
 .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
+    color: #ffffff; /*move this into a separate block specifically for .nav-list-link.active? */ 
 }
 .nav-list .nav-list-item .nav-list-expander:hover {
   background-image: none;

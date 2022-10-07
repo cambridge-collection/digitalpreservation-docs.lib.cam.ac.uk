@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Archive of Tomorrow
-parent: Research
+parent: Research and Outreach
 nav_order: 1
 ---
 

@@ -229,3 +229,4 @@ issues so that action can be taken.
 | Senior Leadership Team     | Oversees the policy's implementation.       |
 | Deputy Director of Digital Iniatives    | Ensures that appropriate infrastructure is provided to support digital collection activities.    |
 | Head of Digital Preservation   | Responsible for this policy on a day-to-day basis and for leading a consultation with stakeholders responsible for digital collection materials to ensure it reflects the needs of staff from across the Library, the faculty and departmental libraries, and the University.  Responsible for communicating progress, as well as risks and issues, to the Deputy Director of Digital Initiatives and the Senior Leadership Team.    |
+

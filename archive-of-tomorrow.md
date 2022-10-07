@@ -12,10 +12,9 @@ Funded by the Wellcome Trust, the Archive of Tomorrow is a fourteen month projec
 
 The project is led by National Library of Scotland, with Cambridge University Library, the Bodleian Libraries, and Edinburgh Universtiy Library as partners, and with the UK Web Archive team at the British Library in a supporting role. 
 
-With funding provided by Cambridge Digital Humantities, the project also includes two fellows carrying out research using the collection being built by the project team. 
+With funding provided by [Cambridge Digital Humanities,](https://www.cdh.cam.ac.uk/) the project also includes two Methods Fellows carrying out research using the [Talking About Health](https://www.webarchive.org.uk/en/ukwa/collection/4028) collection. 
 
 The project began in February 2022 and will conclude in April 2023. 
-
 
 ## Content 
 

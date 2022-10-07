@@ -10,8 +10,5 @@ has_toc: false
 Information about the services to support the colection management of digtal materials are documented.
 
 * [Deposit Service](https://digitalpreservation-docs.lib.cam.ac.uk/deposit-service.html)
-* Transfer Service 
-* Preservation workflows 
-* Repository services 
-* Access 
-* Web archiving 
+* [Transfer Service](https://digitalpreservation-docs.lib.cam.ac.uk/transfer-service.html) 
+* [Web archiving](https://digitalpreservation-docs.lib.cam.ac.uk/web-archiving.html) 

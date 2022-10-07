@@ -4,7 +4,7 @@ title: Policy
 nav_order: 4
 ---
 # Digital Preservation Policy
-*This policy can also be downloaded as a PDF from the University's research repository.* 
+*This policy can also be [downloaded as a PDF](https://doi.org/10.17863/CAM.71114) from the University's research repository.* 
 
 ## 1. Policy overview
 Cambridge University Libraries (CUL, the Libraries) include the main University Library (the Library) as well as its faculty and departmental libraries. This policy outlines how the Libraries care for their digital collections to ensure these materials can be accessed by different categories of users, including staff as well as onsite and online readers now and into the future.

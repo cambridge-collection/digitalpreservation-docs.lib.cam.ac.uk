@@ -105,3 +105,127 @@ The Library hosts and provides access to digital materials owned by third partie
 
 ### 3.2 Out of scope
 
+#### 3.2.1 Physical and Analogue collection materials
+
+The collection management of physical and analogue collection materials is out of scope for
+this policy; however, good practice that enables current and ongoing access of digitised
+copies must be considered when digitisation is undertaken and throughout lifecycle stages.
+
+#### 3.2.2 UK Non-Print Legal Deposit collection
+
+As one the six UK Legal Deposit Libraries,6 the University Library shares ownership of and
+responsibility for a collection of digitally published works that are made publicly available in the UK. University Library staff contribute to decisions about this collection through various strategic and subject-specialist operational groups. The British Library ingests the digital files and maintains the systems, storage infrastructure, workflows, and processes for these materials. 
+
+#### 3.2.3 Websites
+
+The University Library does not have its own web archive but instead contributes to the UK
+Web Archive (UKWA), which is a collaborative initiative involving all six UK legal deposit
+libraries. 
+
+Websites with a UK top-level domain (e.g., .uk, .scot, and .wales) are in scope to be crawled by the UKWA along with other websites that are in scope8 under the UK’s Non-Print Legal Deposit Regulations. Library staff contribute websites created by the Libraries, the
+University, and city of Cambridge, as well as websites relating to relevant teaching and
+research, to the UK Web Archive. The Library also supports this archive through involvement in the Legal Deposit Libraries Web Archiving Subgroup.
+
+#### 3.2.4 Active records and data
+
+The Library is responsible for the long-term preservation of the University Archives that
+include official records created by bodies within the University in print and digital formats. Digital records are transferred to the Library only when they are finalised and signed off for transfer; any files that are still in use will remain with their respective body until ready. This approach also applies to other digital materials that are ‘active’, including research data, which falls under the remit of the University’s institutional repository.
+
+#### 3.2.5 Subscriptions to digital materials
+
+Digital materials that are subscribed to and are hosted by external suppliers (e.g., Portico) are not in scope. The Libraries are not responsible for the preservation of these materials since they are not owned by the Libraries nor are part of collections.
+
+#### 3.2.6 Access copies and other derivatives
+
+An access copy is a derivative of a preservation copy that is intended to be used by readers, both on- and offsite, where permissions allow. As technology progresses, and software and hardware dependencies change, it is possible that a new access copy might need to be created. In some cases, the preservation copy and the access copy will be the same file, in which case the object is in scope for current and long-term preservation.
+
+Library staff create derivatives of digital collection materials for use online and onsite (e.g., use on social media or exhibitions). These objects will need to be managed over the course of their life until they are no longer needed. Although these objects are not intended to be preserved over the long term, it is likely that they will share systems, workflows, and processes with preserved objects. Digital objects will be deleted according to agreed criteria and an audit trail will be maintained of such activity.
+
+## 4. Principles
+
+Along with the overarching principle of taking a lifecycle approach to preservation, this
+policy is guided by the following principles.
+
+### 4.1 Understanding collections
+
+Understanding the digital materials that exist within collections is essential for setting up and maintaining the capabilities needed to steward them throughout stages within a
+collection management lifecycle. Decisions around the care of digital collections need to
+be guided by information about these materials.
+
+This principle will be followed by:
+* Documenting existing and new workflows, including:
+    * Flow of materials through systems and processes.
+    * File types, formats, and standards used.
+    * Conditions under which materials are created or acquired.
+    * Conditions under which materials can be accessed, used, and re-used.
+
+### 4.2 Integrity, Authenticity, Security
+
+It is crucial that digital materials remain unchanged or that they change only in a managed
+and documented way, as well as remain secure, whilst in the Libraries’ custody. This
+principle ensures that digital materials are trustworthy and representative of when they
+were created or acquired.
+
+This principle will be followed by:
+* Ingesting digital collection materials into system(s) that undertake relevant activities
+that aid in their preservation, access, storage, and ongoing management.
+* Ensuring current and ongoing bit-level and content-level integrity.
+* Capturing and creating relevant metadata.
+* Securely storing digital collection materials in geographically separate areas.
+* Identifying and addressing risks and issues to monitor and report on the health of
+preserved materials.
+* Periodic auditing using an appropriate audit framework to first create a baseline and
+to later measure improvement.
+
+### 4.3 Work in the open
+
+The Libraries are committed to using open-source tools, systems, and standards to ensure
+the longevity of digital collection materials. The Libraries also recognise that it is important to contribute to the open-source communities whose outputs they use, as well as to share openly about how they are managing their collections.
+
+This principle will be followed by:
+* Using open-source systems, tools, and standards across areas of collection
+management.
+* Supporting open-source communities through publishing code to its own open
+repository and/or contributing code to other repositories; creating or contributing
+to documentation; and contributing knowledge more generally speaking (e.g.,
+participating in community events).
+* Collaborating with external organisations on open initiatives.
+* Communicating openly internally and externally about challenges and successes.
+
+### 4.4 Library-wide collaboration
+
+Digital Preservation sits within the Library’s Digital Initiatives Directorate, but activities that ensure current and ongoing access to digital materials are a library-wide undertaking. Activities do not take place by one individual or team; instead, they are carried out directly by, or in consultation with, library staff that are responsible for the ongoing care of digital collection materials.
+
+This principle will be followed by:
+* Identifying activities that need to take place and areas of business change.
+* Carrying out in-house and external training when and where needed.
+* Documenting and explaining complex technical matters in clear and accessible
+language.
+* Continuous improvement to work in the most efficient ways possible.
+* Identifying reader needs to enable staff to better support teaching, learning, and research.
+
+### 4.5 Access is fundamental to preservation
+Access is fundamental to preservation. Not only does access enable readers to carry out
+their research, it enables them to alert library staff to any potential risks to collection
+materials (e.g., do files open and render as expected?) and helps them identify whether
+further action is necessary.
+This principle will be followed by:
+• Providing as wide access as possible to staff and readers in ways that faithfully
+represents digital objects when they were created or acquired.
+• Periodic manual sampling to ensure that files can open and to visually check for any
+potential issues.
+• Communicating to staff and readers the conditions under which digital collection
+materials can be accessed, used, and re-used.
+• Providing a mechanism by which staff and readers can alert staff to access-related
+issues so that action can be taken.
+
+## 5. Governance, Roles, and Responsibilities
+
+### 5.1 Strategic oversight of policy
+
+| Role        | Responsibility |
+| -----------| --------------------------------------                                    
+| Library Syndicate      | Endorses the policy and supports its implementation. 
+| Senior Leadership Team     | Oversees the policy's implementation.       |
+| Deputy Director of Digital Iniatives    | Ensures that appropriate infrastructure is provided to support digital collection activities.    |
+| Head of Digital Preservation   | Responsible for this policy on a day-to-day basis and for leading a consultation with stakeholders responsible for digital collection materials to ensure it reflects the needs of staff from across the Library, the faculty and departmental libraries, and the University.  Responsible for communicating progress, as well as risks and issues, to the Deputy Director of Digital Initiatives and the Senior Leadership Team.    |

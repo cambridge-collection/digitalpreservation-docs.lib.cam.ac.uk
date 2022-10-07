@@ -1,24 +1,25 @@
-/* Remove gradated background image from nav bar menu items on hover or when selected (active) */
+//Remove background image when .nav-list-link active
 .nav-list .nav-list-item .nav-list-link:hover,
 .nav-list .nav-list-item .nav-list-link.active {
     background-image: none;
 }
-.nav-list .nav-list-item .nav-list-expander:hover {
-  background-image: none;
-}
 
-/* Remove gradated background image from site title on hover */
-.site-title:hover {
-  background-image: none;
-}
-
-/* Change colour of top (parent) level nav bar menu items */
 .nav-list .nav-list-item .nav-list-link,
 .nav-list .nav-list-item .nav-list-link.active   {
   color: #ffffff;
 }
 
-/* Change font size of nav bar menu items */
+.nav-list .nav-list-item .nav-list-expander:hover {
+  background-image: none;
+}
+
+.site-title:hover {
+  background-image: none;
+}
+.site-button:hover {
+  background-image: none;
+}
+
 .nav-list .nav-list-item {
   font-size: 18px !important;
 }

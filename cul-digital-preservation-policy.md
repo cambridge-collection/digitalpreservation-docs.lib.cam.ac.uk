@@ -232,20 +232,17 @@ With the exception of research outputs (publications and data), the Research Col
 
 ## 6. Review
 
-This Policy will be reviewed and updated (where applicable) on a yearly basis. The next review will take place in spring 2022.[^1]
+This Policy will be reviewed and updated (where applicable) on a yearly basis. The next review will take place in spring 2022.[^1] 
 
 ## Glossary 
 
-Access: “Access is assumed to mean continued, ongoing usability of a digital resource,
-retaining all qualities of authenticity, accuracy and functionality deemed to be essential for the purposes the digital material was created and/or acquired for” 9 (Source: Digital Preservation Handbook Glossary).
+Access: “Access is assumed to mean continued, ongoing usability of a digital resource, retaining all qualities of authenticity, accuracy and functionality deemed to be essential for the purposes the digital material was created and/or acquired for” 9 (Source: Digital Preservation Handbook Glossary).
 
 This policy also recognises that providing access to digital collection materials depends on having the software and/or hardware needed to render these files as well as staff knowledge and skills needed to identify and address access needs. Different types of digital materials will have their own requirements for access, some of which are more complex than others.
 
 Analogue:
-* “An adjective describing any signal that varies continuously as opposed to a digital
-signal, which contains discrete levels.
-* A system or device which operates primarily on analog signals”10 (Source: Columbia
-University Computer Science)
+* “An adjective describing any signal that varies continuously as opposed to a digital signal, which contains discrete levels.
+* A system or device which operates primarily on analog signals” (Source: Columbia University Computer Science)
 
 Bit-level integrity: Ensuring that the bits (the 1’s and 0’s) that make up a digital file remain unchanged from the point of creation and over time (Source: author).
 
@@ -268,8 +265,7 @@ Digitisation: “The process of creating digital files by scanning or otherwise 
 
 Metadata: “Information which describes significant aspects of a resource... [that is] required successfully to manage and preserve digital materials over time and which will assist in ensuring essential contextual, historical, and technical information are preserved along with the digital object” (Source: Digital Preservation Handbook Glossary)
 
-Migration: “A means of overcoming technological obsolescence by transferring digital
-resources from one hardware/software generation to the next. The purpose of migration is to preserve the intellectual content of digital objects and to retain the ability for clients to retrieve, display, and otherwise use them in the face of constantly changing technology” (Source: Digital Preservation Handbook Glossary).
+Migration: “A means of overcoming technological obsolescence by transferring digital resources from one hardware/software generation to the next. The purpose of migration is to preserve the intellectual content of digital objects and to retain the ability for clients to retrieve, display, and otherwise use them in the face of constantly changing technology” (Source: Digital Preservation Handbook Glossary).
 
 Open source: “Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone” (source: GOV UK).
 
@@ -277,10 +273,11 @@ The University Library: The main research library of the University of Cambridge
 
 ## Version history and approval 
 
-| Approved By | Senior Leadership Team | 
-|--------------|--------------------|
-| Approval date | 27 May 2021 | 
-| Written by | The CUL Digital Preservation Policy and Strategy Group
+Approved by the Senior Leadership Team 
+
+Approval date: 27 May 2021 
+
+Written by The CUL Digital Preservation Policy and Strategy Group
 * Caylin Smith, Head of Digital Preservation (Chair)
 * Katrina Dean, Keeper of Archives and Modern Manuscripts
 * Peter Lund, Librarian
@@ -289,10 +286,10 @@ The University Library: The main research library of the University of Cambridge
 * Maciej Pawlikowski, Head of Digital Content Unit
 * Jill Whitelock, Head of Special Collections 
 
-| Policy owner | Caylin Smith, Head of Digital Preservation |
+Policy owner: Caylin Smith, Head of Digital Preservation 
 
 ## Notes 
-1. footnote test
+[^1]: footnote test. 
 
 
 

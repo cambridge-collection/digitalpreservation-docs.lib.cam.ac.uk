@@ -7,7 +7,7 @@ nav_order: 1
 
 # Archive of Tomorrow
 
-## About 
+## About and Background 
 Funded by the Wellcome Trust, the Archive of Tomorrow is a fourteen month project to explore and preserve online information and misinformation relating to health, including the Covid-19 pandemic, in the UK Web Archive. 
 
 The project is led by National Library of Scotland, with Cambridge University Library, the Bodleian Libraries, and Edinburgh Universtiy Library as partners, and with the UK Web Archive team at the British Library in a supporting role. 

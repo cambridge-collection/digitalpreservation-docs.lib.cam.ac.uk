@@ -14,7 +14,7 @@ The project is led by National Library of Scotland, with Cambridge University Li
 
 With funding provided by [Cambridge Digital Humanities,](https://www.cdh.cam.ac.uk/) the project also includes two Methods Fellows carrying out research using the [Talking About Health](https://www.webarchive.org.uk/en/ukwa/collection/4028) collection. 
 
-The project began in February 2022 and will conclude in April 2023. 
+The project will run for 18 months, beginning in February 2022 and concluding in April 2023. 
 
 ## Content 
 
@@ -25,11 +25,9 @@ Government and medical websites have changed on a daily basis as new information
 Clinical advice, data and scientific evidence have been contested, revised, used and misused with dramatic and sometimes tragic consequences, and yet the digital record of this is fragile and difficult to access.
 
 ## Objectives
+The main objective within the project is to develop a collection of health-related information in the UKWA while also using the development of this collection to explore how to ethically capture and describe this information for posterity. 
 
-
-
-
-
+The project will also use the new collection to experiment with options for metadata, computational analysis, ethics and rights issues, and expect to make recommendations to make web archives more representative, inclusive and open for health research.
 
 ## Talking About Health collection
 TO be added

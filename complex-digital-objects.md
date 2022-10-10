@@ -2,7 +2,7 @@
 layout: default
 title: Complex Digital Objects
 parent: Research and Outreach
-nav_order: 2
+nav_order: 3
 ---
 
 # Complex Digital Objects Group

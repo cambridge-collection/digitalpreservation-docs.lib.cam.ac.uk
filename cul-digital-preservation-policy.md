@@ -229,3 +229,83 @@ issues so that action can be taken.
 | Senior Leadership Team     | Oversees the policy's implementation.       |
 | Deputy Director of Digital Iniatives    | Ensures that appropriate infrastructure is provided to support digital collection activities.    |
 | Head of Digital Preservation   | Responsible for this policy on a day-to-day basis and for leading a consultation with stakeholders responsible for digital collection materials to ensure it reflects the needs of staff from across the Library, the faculty and departmental libraries, and the University.  Responsible for communicating progress, as well as risks and issues, to the Deputy Director of Digital Initiatives and the Senior Leadership Team.    |
+
+### 5.2 Operational roles and responsibilities
+
+The Library’s Digital Initiatives Directorate is responsible for the infrastructure that enables necessary capabilities to support associated activities to be carried out.
+
+The following teams sit within this area:
+
+| Team     | Role (in the context of this policy) |
+| ----------- | ----------- |
+| Digital Preservation      | Business owner of digital preservation for the Libraries. Works with colleagues to ensure that activities that support the longevity of collections are embedded and staff are supported. Oversees the ingest of digital files and metadata into systems and care of materials in these systems post-ingest.      
+| Digital Development  | Technical owner of the systems. Provides technical resource and expertise for implementing and configuring as well as maintaining tools and systems to carry out activities on digital objects and metadata to ensure their longevity.       |
+| Digital Services | Technical supplier of Library infrastructure and storage needed for pre-ingest. 
+| Open Research Systems | Business owner of research publications and data, as well as technical owner of the University’s institutional repository.
+| Digital Content Unit | Oversees workflows for digitising print and physical collection materials, creating metadata about digitised copies, as well as storing files and metadata on secure storage. This area is also responsible for rights management and licensing of digitised materials for access and use.
+| Digital Library | Business owner of the Cambridge University Digital Library that provides access to digitised collection objects and associated materials.
+
+With the exception of research outputs (publications and data), the Research Collections Directorate is responsible for the collection management of digital materials within the Library’s Special Collections.
+
+## 6. Review
+
+This Policy will be reviewed and updated (where applicable) on a yearly basis. The next review will take place in spring 2022.
+
+## Glossary 
+
+Access: “Access is assumed to mean continued, ongoing usability of a digital resource,
+retaining all qualities of authenticity, accuracy and functionality deemed to be essential for the purposes the digital material was created and/or acquired for” 9 (Source: Digital Preservation Handbook Glossary).
+
+This policy also recognises that providing access to digital collection materials depends on having the software and/or hardware needed to render these files as well as staff knowledge and skills needed to identify and address access needs. Different types of digital materials will have their own requirements for access, some of which are more complex than others.
+
+Analogue:
+* “An adjective describing any signal that varies continuously as opposed to a digital
+signal, which contains discrete levels.
+* A system or device which operates primarily on analog signals”10 (Source: Columbia
+University Computer Science)
+
+Bit-level integrity: Ensuring that the bits (the 1’s and 0’s) that make up a digital file remain unchanged from the point of creation and over time (Source: author).
+
+Born-Digital: “Digital materials which are not intended to have an analogue equivalent, either as the originating source or as a result of conversion to analogue form” (Source: Digital Preservation Handbook Glossary).
+
+Cambridge University Libraries: The University Library as well as thirty-three faculty and departmental libraries within the University affiliated with the UL (Source: author).
+
+Carrier: “The physical package (i.e., disc, film, tape, etc.), in or on which the audiovisual data or signal is fixed or recorded”11 (Source: IASA). Other types of data, not just audiovisual data, can also be recorded on carriers (Source: author).
+
+Content level integrity: Ensuring that the content that makes up a digital file renders and performs as expected when accessed (Source: author).
+
+Digital materials: “A broad term encompassing digital surrogates created as a result of converting analogue materials to digital form (digitisation), and ‘born digital’ for which there has never been and is never intended to be an analogue equivalent, and digital records” (Source: Digital Preservation Handbook Glossary).
+
+Digital Object: “An object composed of a set of bit sequences” (Source: OAIS Reference model).
+
+Digital preservation: “Refers to the series of managed activities necessary to ensure
+continued access to digital materials for as long as necessary” (Source: Digital Preservation Handbook Glossary).
+
+Digitisation: “The process of creating digital files by scanning or otherwise converting analogue materials. The resulting digital copy, or digital surrogate, would then be classed as digital material” (Source: Digital Preservation Handbook Glossary).
+
+Metadata: “Information which describes significant aspects of a resource... [that is] required successfully to manage and preserve digital materials over time and which will assist in ensuring essential contextual, historical, and technical information are preserved along with the digital object” (Source: Digital Preservation Handbook Glossary)
+
+Migration: “A means of overcoming technological obsolescence by transferring digital
+resources from one hardware/software generation to the next. The purpose of migration is to preserve the intellectual content of digital objects and to retain the ability for clients to retrieve, display, and otherwise use them in the face of constantly changing technology” (Source: Digital Preservation Handbook Glossary).
+
+Open source: “Open source is a way of developing and distributing software. The code is often written collaboratively, and it can be downloaded, used and changed by anyone” (source: GOV UK).
+
+The University Library: The main research library of the University of Cambridge (Source: author).
+
+## Version history and approval 
+
+| Approved By | Senior Leadership Team | 
+|--------------|--------------------|
+| Approval date | 27 May 2021 | 
+| Written by | The CUL Digital Preservation Policy and Strategy Group
+* Caylin Smith, Head of Digital Preservation (Chair)
+* Katrina Dean, Keeper of Archives and Modern Manuscripts
+* Peter Lund, Librarian
+* Agustina Martinez-Garcia, Head of Open Research Systems
+* Suzanne Paul, Keeper of Rare Books & Early Manuscripts
+* Maciej Pawlikowski, Head of Digital Content Unit
+* Jill Whitelock, Head of Special Collections 
+
+| Policy owner | Caylin Smith, Head of Digital Preservation |
+
+## Notes 

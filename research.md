@@ -15,4 +15,4 @@ has_toc: false
 * Technical Advisory Group 
 * Web Archiving Group
 
-Send any questions about these activities to the [CUL Digital Preservation email address.](mailto:digitalpreservation@lib.cam.ac.uk)
+Send any questions about these activities to the [CUL Digital Preservation email address](mailto:digitalpreservation@lib.cam.ac.uk).

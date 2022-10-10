@@ -2,7 +2,7 @@
 layout: default
 title: CUL Web Archiving Group
 parent: Research and Outreach
-nav_order: 1
+nav_order: 5
 ---
 
 # CUL Web Archiving Group

@@ -84,7 +84,7 @@ Although not explicitly mentioned as stages, administrative and data management 
 ## 3. Scope 
 ### 3.1 In scope
 #### 3.1.1 Collection materials 
-Digitised versions of physical and analogue works as well as born-digital materials (e.g., research outputs, archival materials) that must be preserved can be found across the Libraries. All of the Libraries’ digital collection objects and associated metadata are in-scope for long-term preservation.
+Digitised versions of physical and analogue works as well as born-digital materials (e.g., research outputs, archival materials) that must be preserved can be found across the Libraries. All of the Libraries’ digital collection objects and associated metadata are in-scope for long-term preservation.[^5]
 
 The Digital Preservation Programme[^4] will develop capabilities4 for digital collection materials held by the Libraries and prioritise those held by the University Library. The Libraries’ collections will continue to grow as new collections are established and materials and formats are added to existing collections. Capabilities will be designed for known use cases, with the understanding that new use cases will be identified and existing use cases will evolve over time.
 
@@ -106,13 +106,13 @@ The collection management of physical and analogue collection materials is out o
 
 #### 3.2.2 UK Non-Print Legal Deposit collection
 
-As one the six UK Legal Deposit Libraries,6 the University Library shares ownership of and responsibility for a collection of digitally published works that are made publicly available in the UK. University Library staff contribute to decisions about this collection through various strategic and subject-specialist operational groups. The British Library ingests the digital files and maintains the systems, storage infrastructure, workflows, and processes for these materials. 
+As one the six UK Legal Deposit Libraries,[^6] the University Library shares ownership of and responsibility for a collection of digitally published works that are made publicly available in the UK. University Library staff contribute to decisions about this collection through various strategic and subject-specialist operational groups. The British Library ingests the digital files and maintains the systems, storage infrastructure, workflows, and processes for these materials.[^7] 
 
 #### 3.2.3 Websites
 
 The University Library does not have its own web archive but instead contributes to the UK Web Archive (UKWA), which is a collaborative initiative involving all six UK legal deposit libraries. 
 
-Websites with a UK top-level domain (e.g., .uk, .scot, and .wales) are in scope to be crawled by the UKWA along with other websites that are in scope8 under the UK’s Non-Print Legal Deposit Regulations. Library staff contribute websites created by the Libraries, the University, and city of Cambridge, as well as websites relating to relevant teaching and research, to the UK Web Archive. The Library also supports this archive through involvement in the Legal Deposit Libraries Web Archiving Subgroup.
+Websites with a UK top-level domain (e.g., .uk, .scot, and .wales) are in scope to be crawled by the UKWA along with other websites that are in scope[^8] under the UK’s Non-Print Legal Deposit Regulations. Library staff contribute websites created by the Libraries, the University, and city of Cambridge, as well as websites relating to relevant teaching and research, to the UK Web Archive. The Library also supports this archive through involvement in the Legal Deposit Libraries Web Archiving Subgroup.
 
 #### 3.2.4 Active records and data
 
@@ -231,13 +231,13 @@ This Policy will be reviewed and updated (where applicable) on a yearly basis. T
 
 ## Glossary 
 
-Access: “Access is assumed to mean continued, ongoing usability of a digital resource, retaining all qualities of authenticity, accuracy and functionality deemed to be essential for the purposes the digital material was created and/or acquired for” 9 (Source: Digital Preservation Handbook Glossary).
+Access: “Access is assumed to mean continued, ongoing usability of a digital resource, retaining all qualities of authenticity, accuracy and functionality deemed to be essential for the purposes the digital material was created and/or acquired for” (Source: Digital Preservation Handbook Glossary).[^9]
 
 This policy also recognises that providing access to digital collection materials depends on having the software and/or hardware needed to render these files as well as staff knowledge and skills needed to identify and address access needs. Different types of digital materials will have their own requirements for access, some of which are more complex than others.
 
 Analogue:
 * “An adjective describing any signal that varies continuously as opposed to a digital signal, which contains discrete levels.
-* A system or device which operates primarily on analog signals” (Source: Columbia University Computer Science)
+* A system or device which operates primarily on analog signals” (Source: Columbia University Computer Science)[^10]
 
 Bit-level integrity: Ensuring that the bits (the 1’s and 0’s) that make up a digital file remain unchanged from the point of creation and over time (Source: author).
 
@@ -245,7 +245,7 @@ Born-Digital: “Digital materials which are not intended to have an analogue eq
 
 Cambridge University Libraries: The University Library as well as thirty-three faculty and departmental libraries within the University affiliated with the UL (Source: author).
 
-Carrier: “The physical package (i.e., disc, film, tape, etc.), in or on which the audiovisual data or signal is fixed or recorded”11 (Source: IASA). Other types of data, not just audiovisual data, can also be recorded on carriers (Source: author).
+Carrier: “The physical package (i.e., disc, film, tape, etc.), in or on which the audiovisual data or signal is fixed or recorded”[^11] (Source: IASA). Other types of data, not just audiovisual data, can also be recorded on carriers (Source: author).
 
 Content level integrity: Ensuring that the content that makes up a digital file renders and performs as expected when accessed (Source: author).
 

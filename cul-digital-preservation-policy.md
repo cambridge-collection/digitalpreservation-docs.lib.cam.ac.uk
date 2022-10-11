@@ -23,11 +23,7 @@ Besides taking a lifecycle approach, there are core principles that guide how th
 
 ### 1.2 Background 
 
-This policy follows Version 1.01 of the Libraries’ Digital Preservation Policy that was written
-during a period of significant change in how the Libraries care for their digital collections.
-Digital preservation within the University continues to mature, and in October 2020, the
-Cambridge University Libraries were awarded funding from the University to establish a
-digital preservation service.
+This policy follows Version 1.0[^1] of the Libraries’ Digital Preservation Policy that was written during a period of significant change in how the Libraries care for their digital collections. Digital preservation within the University continues to mature, and in October 2020, the Cambridge University Libraries were awarded funding from the University to establish a digital preservation service.
 
 The Cambridge University Libraries Digital Preservation Service will be implemented through a five-year programme beginning in Q2 2021. This programme will deliver identified capabilities to support digital collection materials using open-source systems, tools, and standards.
 
@@ -35,8 +31,7 @@ The CUL Digital Preservation Strategy (forthcoming Q3 2021) outlines how this po
 
 ### 1.3 Audience
 
-Due to the range of activities that help care for digital collection materials, this policy has a
-broad audience, including library and other Cambridge University staff as well as users from across the University.
+Due to the range of activities that help care for digital collection materials, this policy has a broad audience, including library and other Cambridge University staff as well as users from across the University.
 
 It is recommended that new and existing library staff consult this policy whenever it is relevant to their work. This policy should also be consulted as part of setting up and delivering any library and University projects or other initiatives that will result in the creation or acquisition of digital collection materials that the University Library will need to preserve. Examples include the Digital Preservation Programme as well as project applications to external funding bodies.
 
@@ -47,7 +42,7 @@ External parties might also be interested, including:
 * Existing and potential funding bodies.
 * Publishers and other content creators.
 * Suppliers of infrastructure and services for digital collection materials.
-* The digital preservation community as well as related communities.
+* The digital preservation community as well as related communities.[^2]
 
 ## 2. Why digital preservation matters
 
@@ -82,7 +77,7 @@ Search and Discovery involves readers using metadata to locate or browse digital
 
 Access, Use, and Re-use make digital collection materials available to users, both onsite and online. Re-use means our readers can carry out other activities with digital collection materials beyond simply reading, viewing, listening to, or watching them.
 
-Maintain helps ensure current and future access to digital collection materials.
+Maintain helps ensure current and future access to digital collection materials.[^3]
 
 Although not explicitly mentioned as stages, administrative and data management activities will take place throughout.
 
@@ -91,7 +86,7 @@ Although not explicitly mentioned as stages, administrative and data management 
 #### 3.1.1 Collection materials 
 Digitised versions of physical and analogue works as well as born-digital materials (e.g., research outputs, archival materials) that must be preserved can be found across the Libraries. All of the Libraries’ digital collection objects and associated metadata are in-scope for long-term preservation.
 
-The Digital Preservation Programme will develop capabilities4 for digital collection materials held by the Libraries and prioritise those held by the University Library. The Libraries’ collections will continue to grow as new collections are established and materials and formats are added to existing collections. Capabilities will be designed for known use cases, with the understanding that new use cases will be identified and existing use cases will evolve over time.
+The Digital Preservation Programme[^4] will develop capabilities4 for digital collection materials held by the Libraries and prioritise those held by the University Library. The Libraries’ collections will continue to grow as new collections are established and materials and formats are added to existing collections. Capabilities will be designed for known use cases, with the understanding that new use cases will be identified and existing use cases will evolve over time.
 
 Prior to ingest into systems, digital collection materials will be kept on backed-up, resilient storage with checksums to ensure the files remain unchanged, and integrity can be later verified. Some digital collection materials will be acquired on handheld media (e.g., hard drives, CDs) that will need to be transferred to this other storage; there are also analogue materials that will need to be digitised. The care of the media and analogue carriers are the responsibility of the collecting or creating area to which the materials belong.
 
@@ -232,7 +227,7 @@ With the exception of research outputs (publications and data), the Research Col
 
 ## 6. Review
 
-This Policy will be reviewed and updated (where applicable) on a yearly basis. The next review will take place in spring 2022.[^1] 
+This Policy will be reviewed and updated (where applicable) on a yearly basis. The next review will take place in spring 2022.
 
 ## Glossary 
 
@@ -289,8 +284,25 @@ Written by The CUL Digital Preservation Policy and Strategy Group
 Policy owner: Caylin Smith, Head of Digital Preservation 
 
 ## Notes 
-[^1]: footnote test. 
 
+[^1]: [https://doi.org/10.17863/CAM.32927](https://doi.org/10.17863/CAM.32927)
 
+[^2]: Web archiving, time-based media conservation, digital humanities, to name a few.
 
-2. 
+[^3]:  One example could be migrating digital objects from one format to another when the current format is identified as having some sort of risk. Another activity could occur when physical objects are re-digitised because digitisation technology has improved, and these resulting digitised objects are preserved alongside their older preservation copies.
+
+[^4]: The capabilities being developed address the stages within the lifecycle described in Section 2.
+
+[^5]: One example is software that is required to provide access to a type of file format within the Libraries’ collections. Another example is email correspondence between library staff (e.g., an archivist) and a donor that provides information about a donation.
+
+[^6]: Along with the British Library; the National Library of Scotland; the National Library of Wales; the Bodleian Libraries, University of Oxford; and the Library of Trinity College, Dublin.
+
+[^7]: At present, the following formats are collected: eBooks, eJournals, websites, maps and geospatial data, and sheet music. The LDLs also carry out ongoing research into digitally published works that fit into one of the above categories but are created in formats that are not currently collected (e.g., an eBook that is created as a mobile app and has both software and hardware dependencies).
+
+[^8]: These latter websites use a different domain (.com, for example) and are in scope if they are identified as being hosted in the UK.
+
+[^9]: [Digital Preservation Coalition Glossary](https://www.dpconline.org/handbook/glossary#M)
+
+[^10]: (https://www.cs.columbia.edu/~hgs/rtp/glossary.htm#c)
+
+[^11]: https://www.iasa-web.org/cataloguing-rules/appendix-d-glossary

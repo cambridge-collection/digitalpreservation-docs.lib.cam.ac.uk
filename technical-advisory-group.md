@@ -11,6 +11,8 @@ nav_order: 4
 
 The Technical Advisory Group was set up within the context of the CUL Digital Preservation Programme. It is formed of technical peers working in digital preservation at other collecting institutions, with the overall purpose of providing technical advice and guidance to help steer the team working on the delivery of the programme. 
 
+## Objectives
+
 The group meets on a quarterly basis to:
 * challenge and provide feedback on the approach to delivery and overall design and/or design of a particular component or service, presented by attending programme team members  
 * offer advice, recommendations, insight and guidance to the programme team as appropriate, drawing on their own expertise and experience 

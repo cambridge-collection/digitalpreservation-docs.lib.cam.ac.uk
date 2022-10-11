@@ -36,7 +36,7 @@ Peter Heiner, Senior Developer & Operations Specialist
 
 Jay Pema, Head of Digital Services
 
-Tuan Pham, Head of Development and Innovation
+Tuan Pham, Head of Digital Development & Innovation
 
 Caylin Smith, Head of Digital Preservation 
 

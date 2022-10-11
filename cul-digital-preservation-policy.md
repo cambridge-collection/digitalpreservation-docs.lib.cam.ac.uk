@@ -303,6 +303,6 @@ Policy owner: Caylin Smith, Head of Digital Preservation
 
 [^9]: [Digital Preservation Coalition Handbook Glossary](https://www.dpconline.org/handbook/glossary#M)
 
-[^10]: (https://www.cs.columbia.edu/~hgs/rtp/glossary.htm#c)
+[^10]: [Columbia University Computer Science glaossary] (https://www.cs.columbia.edu/~hgs/rtp/glossary.htm#c)
 
-[^11]: https://www.iasa-web.org/cataloguing-rules/appendix-d-glossary
+[^11]: [IASA glossary] https://www.iasa-web.org/cataloguing-rules/appendix-d-glossary

@@ -18,12 +18,5 @@ For information about ongoing research and works in progress, visit the [CUL Dig
 
 If you have any questions, or want to discuss possibilities for collaboration, [send us an email](mailto:digitalpreservation@lib.cam.ac.uk).
 
-## Digital Preservation Team 
 
-Caylin 
 
-Natalie 
-
-Leontien 
-
-The team work with [colleagues within other areas of the University Library's Digital Initiatives Directorate and the wider Library](https://digitalpreservation-docs.lib.cam.ac.uk/cul-dp-programme.html) on the Digital Preservation Programme. 

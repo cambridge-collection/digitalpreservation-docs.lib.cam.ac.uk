@@ -285,7 +285,7 @@ Policy owner: Caylin Smith, Head of Digital Preservation
 
 ## Notes 
 
-[^1]: [https://doi.org/10.17863/CAM.32927](https://doi.org/10.17863/CAM.32927)
+[^1]: [CUL Digital Preservation Policy v1.0](https://doi.org/10.17863/CAM.32927)
 
 [^2]: Web archiving, time-based media conservation, digital humanities, to name a few.
 
@@ -301,7 +301,7 @@ Policy owner: Caylin Smith, Head of Digital Preservation
 
 [^8]: These latter websites use a different domain (.com, for example) and are in scope if they are identified as being hosted in the UK.
 
-[^9]: [Digital Preservation Coalition Glossary](https://www.dpconline.org/handbook/glossary#M)
+[^9]: [Digital Preservation Coalition Handbook Glossary](https://www.dpconline.org/handbook/glossary#M)
 
 [^10]: (https://www.cs.columbia.edu/~hgs/rtp/glossary.htm#c)
 

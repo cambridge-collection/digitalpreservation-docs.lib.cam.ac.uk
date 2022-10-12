@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CUL Born-Digital Archives Working Group
+title: Born-Digital Archives Working Group
 nav_order: 2
 parent: Research and Outreach
 has_children: false

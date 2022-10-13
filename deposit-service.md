@@ -5,10 +5,17 @@ parent: Services
 nav_order: 1
 ---
 # Deposit Service
-The Deposit Service is an online tool that can be used to transfer digital files to the Library safely and securely.
+
+The Deposit Service is an online service for transferring digital files to Cambridge University Libraries (CUL) safely and securely. 
+
+It has been developed by CUL’s Digital Preservation Programme to support CUL’s mission to acquire world-class information resources. CUL welcome offers of material that would enhance their collections.
+
+Further information about [CUL collecting policies](https://www.lib.cam.ac.uk/about-library/library-management/policies.html) is available online.
 
 ## 1. Before you start
-Liaise with Cambridge University Library to:
+
+Liaise with your contact at CUL to:
+
 * Decide which records to deposit
 * Identify any records containing sensitive or confidential information
 * Discuss the terms of deposit/donation including assignment of copyright
@@ -16,20 +23,21 @@ Liaise with Cambridge University Library to:
 contact at the Library can supply a spreadsheet template that can be used for this purpose.
 
 ## 2. Sign-in
+
 * Visit the Deposit Service
-* Request a Sign-in Code by filling in your e-mail address and clicking the <em>SEND ME A SIGN-IN CODE button</em>.
+* Request a Sign-in Code by filling in your e-mail address and clicking the _**SEND ME A SIGN-IN CODE**_ button.
 
 
 ![Deposit Service sign in page](assets/images/ds_sign_in.png)
 
 
-* Check your email account for an email from deposit@dps.lib.cam.ac.uk with the subject line **‘Sign-in** code for Cambridge University Libraries’ Deposit Service’.
+* Check your email account for an email from deposit@dps.lib.cam.ac.uk with the subject line **_Sign-in code for Cambridge University Libraries’ Deposit Service._**    
 * Enter the 6 -figure sign-in code in the email into the Deposit Service Sign in page (shown below)
-and click the **CONTINUE** button
+and click the **_CONTINUE_** button
 
 ## 3. Upload files
-* Enter the 6 -figure sign-in code in the email into the Deposit Service Sign in page (shown below)
-and click the CONTINUE button
+* Enter the 6 -figure sign-in code in the email into the Deposit Service **_Sign in_**  page (shown below)
+and click the **_CONTINUE_** button
 * Visit the Deposit Service
 * Sign in to the Deposit Service using a one-time code
 * You will see a screen (as shown below) showing an area for deposit of your files.

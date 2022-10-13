@@ -35,7 +35,7 @@ contact at the Library can supply a spreadsheet template that can be used for th
 * Enter the 6 -figure sign-in code in the email into the Deposit Service Sign in page and click the **_continue_** button
 
 
-![Screenshot of Deposit Service page showing 6 boxes to enter one-time sign in code](assets/images/DS_enter_code.png)
+![Screenshot of Deposit Service page showing 6 boxes to enter one-time sign in code](assets/images/DS_enter_code.jpg)
 
 
 ## 3. Upload files

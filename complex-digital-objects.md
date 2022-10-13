@@ -2,7 +2,7 @@
 layout: default
 title: Complex Digital Objects
 parent: Research and Outreach
-nav_order: 2
+nav_order: 3
 ---
 
 # Complex Digital Objects Group
@@ -19,7 +19,7 @@ The need for a forum to discuss collection management approaches, policies, and 
 
 The expertise within the current group includes areas throughout collection management, including curation, digital preservation, and access, as well as specific knowledge of preservation and archiving of different types of objects. Different experts have come to specific meetings for feedback on ongoing projects or to contribute to specific subjects. 
 
-## Characteristics
+## Objectives
 Defining the term complex digital object is challenging. These are works that comprise different components, digital and sometimes analogue as well, and will require knowledge and expertise from multiple disciplines to collect, preserve, and make accessible. For these reasons, the group decided that the term would remain broad and not impose any strict definition on the works that could be discussed. 
 
 * Hardware and/or software dependencies 

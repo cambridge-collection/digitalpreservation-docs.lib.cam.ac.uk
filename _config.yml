@@ -3,9 +3,9 @@ logo: "/assets/images/Cambridge University Libraries_rev_col.png"
 color_scheme: culdp
 aux_links:
   "Digital Preservation":
-    - "https://digitalpreservation-docs.lib.cam.ac.uk/"
+    -"https://digitalpreservation-docs.lib.cam.ac.uk/"
   "Cambridge University Libraries":
-    - "https://www.lib.cam.ac.uk/""
+    -"https://www.lib.cam.ac.uk/""
   " University of Cambridge":
-    - "https://www.cam.ac.uk/"
+    -"https://www.cam.ac.uk/"
 aux_links_new_tab: true

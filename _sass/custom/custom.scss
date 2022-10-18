@@ -48,6 +48,9 @@
 }
 
 /* Change size of sidebar */ 
+
+$toc-width: 232px !default;
+
 .navigation {
   @media (min-width: 50rem) {
     padding-top: 3rem;

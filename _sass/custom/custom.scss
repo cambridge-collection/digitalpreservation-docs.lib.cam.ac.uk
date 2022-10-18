@@ -49,8 +49,12 @@
 
 /* Change size of sidebar */ 
 .navigation {
+  @media (min-width: 50rem) {
+.navigation {
     padding-top: 3rem;
     padding-bottom: 1rem;
     overflow-y: auto;
     flex: 1 1 auto;
+}
+  }
 }

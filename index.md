@@ -4,9 +4,6 @@ title: Home
 nav_order: 1
 ---
 
-# <b> Cambridge University Libraries<b>
-# <b> Digital Preservation<b>
-
 Based at the University Library, the main research library of the University of Cambridge, Digital Preservation at Cambridge University Libraries is about ensuring that digital materials within collections can be accessed by readers both now and in the future.
 
 This website is the central repository for information about 

@@ -59,3 +59,34 @@ $toc-width: 232px !default;
     flex: 1 1 auto; 
   }
 }
+
+
+/* make search box look like a box */
+.search-input-wrap {
+    background-color: #24292f;
+}
+
+.search-input {height: auto;     margin-top: 0.35em;}
+
+
+/*remove side bar border to make the faux top bar*/
+.side-bar {border:0}
+
+/* auxiliary links: remove hover image, color and hover color */
+a.site-button {
+  color: #f7b78d;
+}
+
+a.site-button:hover{
+  color:#fff;
+  background-image: none;
+}
+
+/*top bar width same as screen width */
+body {
+  background: #fff url(https://www.lib.cam.ac.uk/sites/www.lib.cam.ac.uk/files/fauxbg59.png) top left repeat-x;
+}
+
+.side-bar{
+  background: #E1EAF7 url(https://www.lib.cam.ac.uk/sites/www.lib.cam.ac.uk/files/fauxbg59.png) top left repeat-x;
+}
